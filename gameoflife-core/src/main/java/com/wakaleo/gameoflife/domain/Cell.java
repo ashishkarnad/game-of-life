@@ -1,7 +1,7 @@
 package com.wakaleo.gameoflife.domain;
 
  /**
- ***** Wakaleo Consulting - John Ferguson Smar**t
+ ***** Wakaleo Consulting - John Ferguson Smar****t
  * Game of life, demonstration application for Jenkins: The Definitive Guide***
  *
  * Cell.java
